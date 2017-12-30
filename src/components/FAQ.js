@@ -35,7 +35,7 @@ class FAQ extends Component {
               question="Who are you?"
               answer={
                 <div>
-                  <p>Nexchange is an automated cryptocurrency exchange service, operated by <a href="https://beta.companieshouse.gov.uk/company/10009845" target="_blank">YOA LTD. (registered company No. 10009845)</a>.</p>
+                  <p>C.S.E.-Community-Source-Exchange is an automated cryptocurrency exchange service, operated by <a href="https://beta.companieshouse.gov.uk/company/10009845" target="_blank">YOA LTD. (registered company No. 10009845)</a>.</p>
                   <p>Our VAT number - GB233 5420 37.<br/>Our registered office address - Suite 11, Penhurst House, 352-254 Battersea Park Road, London, England, SW11 3BY.</p>
                   <p>Our customer support phone number in UK is <a href="tel:+442081442192">+442081442192</a>.</p>
                 </div>
@@ -47,7 +47,7 @@ class FAQ extends Component {
                 <div>
                   <p>We allow you to exchange one cryptocurrency for another. To view our currently supported coins, please click on the coin selection widget in the top of fold of the page.</p>
                   <p>We will be adding more currencies very soon, stay tuned!</p>
-                  <p>Missing your favorite coin? Let us know here: <a href="mailto:support@nexchange.io">support@nexchange.io</a>.</p>
+                  <p>Missing your favorite coin? Let us know here: <a href="mailto:von.babinhousin@gmail.com">von.babinhousin@gmail.com</a>.</p>
                 </div>
               }/>
 
@@ -184,7 +184,7 @@ class FAQ extends Component {
               question="Do I need a wallet? How do I get one?"
               answer={
                 <div>
-                  <p>In order to use Nexchange, you need to have your own wallet. The main upside of this feature is that we don’t hold your coins, and thus you retain full control over your assets at all times.</p>
+                  <p>In order to use CSE, you need to have your own wallet. The main upside of this feature is that we don’t hold your coins, and thus you retain full control over your assets at all times.</p>
                   <p>If you need some help obtaining a wallet for your desired cryptocurrency, please look here:</p>
                   <ul>
                     <li>Bitcoin (BTC): <a href="https://bitcoin.org/en/choose-your-wallet">https://bitcoin.org/en/choose-your-wallet</a></li>
